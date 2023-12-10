@@ -1,3 +1,7 @@
+<a href="#" target="_blank">
+  <img src="svg/ngongochuyit.svg" width="1200" alt="ngongochuyit-official" />
+</a>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align=center>
   <a href="#" title="NgoNgocHuyIT">
